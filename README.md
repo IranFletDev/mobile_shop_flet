@@ -71,7 +71,8 @@ flet فریمورک
 نمونه های خروجی:
 
 
-![موبایل](https://github.com/user-attachments/assets/a1f94621-704b-493b-9867-a2ad6da4dcca)
+![shop1](https://github.com/user-attachments/assets/1a468a71-0b72-4156-9a41-8390b86c03e8)
+
 
 .
 
