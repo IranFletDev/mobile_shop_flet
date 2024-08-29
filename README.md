@@ -68,10 +68,11 @@ flet فریمورک
 ## مستندات رسمی
 [Flet-Documentation](https://flet.dev/docs/)
 
-نمونه های خروجی:
+خروجی ها:
 
 
-![shop1](https://github.com/user-attachments/assets/1a468a71-0b72-4156-9a41-8390b86c03e8)
+
+![shop1](https://github.com/user-attachments/assets/7b67a0e7-949c-4e23-856a-dda069044f2b)
 
 
 .
