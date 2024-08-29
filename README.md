@@ -68,7 +68,16 @@ flet فریمورک
 ## مستندات رسمی
 [Flet-Documentation](https://flet.dev/docs/)
 
+نمونه های خروجی:
 
 
+![موبایل](https://github.com/user-attachments/assets/a1f94621-704b-493b-9867-a2ad6da4dcca)
 
+.
+
+![shop2](https://github.com/user-attachments/assets/9fb66960-c51a-45e6-947e-ddc55dd6e36f)
+
+.
+
+![shop3](https://github.com/user-attachments/assets/94754a0c-94ff-474e-baf7-b509c87b7359)
 
